@@ -1,4 +1,4 @@
-# 1081 - Introduction to Information Retrieval (4228)
+# 1081 4228 資訊檢索導論 (Introduction to Information Retrieval)
 
 ## Homework 3
 
